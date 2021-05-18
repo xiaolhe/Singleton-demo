@@ -1,7 +1,7 @@
 package com.xiaolh.controller;
 
 /**
- * Create by 肖橙橙
+ * Create by xiaolhe
  * Date: 2020:07:29  01:42
  */
 public class HungrySingleton {

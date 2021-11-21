@@ -1,7 +1,7 @@
 package com.xiaolh.controller;
 
 /**
- * Create by xiaolhe
+ * Create by xiaoxpai
  * Date: 2020:07:29  01:05
  * Desc:线程安全懒汉式
  */

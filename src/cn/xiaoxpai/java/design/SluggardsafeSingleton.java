@@ -1,4 +1,4 @@
-package com.xiaolh.controller;
+package cn.xiaoxpai.java.design;
 
 /**
  * Create by xiaoxpai
